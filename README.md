@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REACT PROJECTS<br><br>🌱 I’m currently learning React<br><br>🤝 I’m looking for help with WordPress<br><br>💬 Ask me about Marvel and Entrepreneurship<br><br>📫 How to reach me yashprime000@gmail.com<br><br>
+🔭 I’m currently working on REACT and Angular<br><br>🌱 I’m currently learning Typescript<br><br>🤝 I’m looking for help with WordPress<br><br>💬 Ask me about Marvel and Entrepreneurship<br><br>📫 How to reach me yashprime000@gmail.com<br><br>
 
 
 ## 🌐 Socials:

@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Angular Js**
 
-- 🤝 I’m looking for help with **My Portfolio Site**
+- 🤝 I’m looking for help with **Backend Work**
 
 - 💬 Ask me about **Angular Js,HTML ,CSS, Mongo DB**
 

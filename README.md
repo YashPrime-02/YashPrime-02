@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **IRCTC Improvised Clone Site**
 
-- 🌱 I’m currently learning **Mongo Db , Docker and Angular Js**
+- 🌱 I’m currently learning **SQL , Docker and Express Js**
 
 - 👯 I’m looking to collaborate on **Angular Js**
 

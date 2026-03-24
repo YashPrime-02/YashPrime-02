@@ -18,18 +18,28 @@ Building scalable UI, full-stack systems, and AI-powered experiences
 
 ---
 
-## 🧩 What I Build
+## 🧩 Featured Projects
 
-### 🏎️ F1 Career Simulator (GenAI Project)
-- Full-stack simulation platform (React + Node + PostgreSQL)
-- Custom **race simulation engine**
-- **GenAI-powered commentary system (Ollama)**
-- Structured prompt pipelines for contextual outputs
+### 🏎️ F1 Career Simulator (GenAI)
+- Full-stack simulation platform using React, Node.js, and PostgreSQL  
+- Custom race simulation engine for results, standings, and progression  
+- GenAI-powered commentary system using Ollama  
+- Structured prompt pipelines for contextual outputs  
 
 ### 🍔 DevEats (Food Delivery Platform)
-- End-to-end application with **authentication & admin workflows**
-- **JWT-based security**
-- Persistent cart & order management
+- End-to-end application with authentication and admin workflows  
+- JWT-based secure authentication  
+- Persistent cart and order management system  
+
+---
+
+## 🎥 F1 Demo
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+    ▶️ Watch Demo
+  </a>
+</p>
 
 ---
 
@@ -43,24 +53,25 @@ Building scalable UI, full-stack systems, and AI-powered experiences
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://linkedin.com/in/yashmishra02" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://portfolio-updated-lwhs.vercel.app/" target="blank">
-🌐 Portfolio
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02" />
+<p align="center">
+<a href="https://linkedin.com/in/yashmishra02" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-updated-lwhs.vercel.app/" target="blank">
+🌐 Portfolio
+</a>
 </p>
 
 ---

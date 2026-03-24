@@ -36,7 +36,7 @@ Building scalable UI, full-stack systems, and AI-powered experiences
 ## 🎥 F1 Demo
 
 <p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="https://drive.google.com/file/d/1Fq_y1Lo7Kzoa0agWqihtXW7aMZTOygZ3/view?usp=drive_link">
     ▶️ Watch Demo
   </a>
 </p>

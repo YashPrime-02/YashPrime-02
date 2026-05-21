@@ -2,21 +2,29 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%F0%9F%8F%8E%EF%B8%8F+Lights+Out+%26+Away+We+Go..." alt="Typing SVG" />
 
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Yash%20Mishra%20|%20Frontend%20Engineer&fontSize=42&fontAlignY=42&animation=fadeIn&fontColor=ffffff&color=timeGradient&desc=React%20%E2%80%A2%20Angular%20%E2%80%A2%20GenAI%20%E2%80%A2%20Full%20Stack&descAlignY=62&descSize=20"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yashprime-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<br/><br/>
+<br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c2bc-4b63-8753-0ffb79bfdbfc.gif" width="100%" />
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # ⚡ About Me
+
+<br/>
 
 <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -28,17 +36,23 @@
 - 🚀 Exploring **AI-powered frontend experiences**
 - 🌱 Currently improving **system design & backend architecture**
 
-<br clear="right"/>
+<br/><br clear="right"/>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20SYSTEMS-00F7FF?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/CURRENTLY-OPEN%20TO%20WORK-7928CA?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20FRONTEND-FF0080?style=for-the-badge"/>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
@@ -46,17 +60,29 @@
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🧩 Featured Projects
+
+<br/>
 
 ## 🏎️ F1 Career Simulator (GenAI)
 
 > Full-stack simulation ecosystem inspired by real Formula 1 strategy systems.
+
+<br/>
 
 ✨ Features:
 - React + Node.js + PostgreSQL architecture
@@ -66,11 +92,13 @@
 - Structured prompt engineering pipelines
 - Context-aware race narratives
 
----
+<br/>
 
 ## 🍔 DevEats (Food Delivery Platform)
 
 > Production-style food delivery ecosystem with secure workflows.
+
+<br/>
 
 ✨ Features:
 - JWT-based authentication system
@@ -79,13 +107,23 @@
 - Optimized frontend architecture
 - Scalable REST API handling
 
+<br/>
+
 ---
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🎥 F1 Demo
+
+<br/>
 
 <div align="center">
 
@@ -95,9 +133,15 @@
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🛠️ Tech Stack
+
+<br/>
 
 <div align="center">
 
@@ -106,15 +150,24 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Frontend-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Backend-007CF0?style=for-the-badge&logo=node.js&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GenAI-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/System%20Design-FF0080?style=for-the-badge"/>
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # 📊 GitHub Analytics
+
+<br/>
 
 <div align="center">
 
@@ -128,7 +181,11 @@
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
@@ -136,9 +193,15 @@
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🐍 Contribution Snake
+
+<br/>
 
 <div align="center">
 
@@ -146,9 +209,15 @@
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🏆 GitHub Trophies
+
+<br/>
 
 <div align="center">
 
@@ -156,9 +225,15 @@
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # 📈 Contribution Graph
+
+<br/>
 
 <div align="center">
 
@@ -166,13 +241,23 @@
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
+<br/>
+
 ---
 
+<br/>
+
 # 🌐 Connect With Me
+
+<br/>
 
 <div align="center">
 
@@ -180,13 +265,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-updated-lwhs.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yourmail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -194,9 +279,15 @@
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 # ⚡ Current Focus
+
+<br/>
 
 ```yaml
 Building:
@@ -211,11 +302,17 @@ Learning:
   - AI workflow orchestration
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
 ## 🏁 “Lights out, and away we go…”
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:7928CA&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 

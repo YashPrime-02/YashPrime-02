@@ -98,11 +98,13 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -112,7 +114,7 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashprime-02/yashprime-02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/yashprime-02/yashprime-02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -122,7 +124,7 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashprime-02&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=yashprime-02&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -132,7 +134,7 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashprime-02&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashprime-02&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -171,3 +173,14 @@ Learning:
   - Advanced backend architecture
   - System design patterns
   - AI workflow orchestration
+```
+
+---
+
+<div align="center">
+
+## 🏁 “Lights out, and away we go…”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+
+</div>

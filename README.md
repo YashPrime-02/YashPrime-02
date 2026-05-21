@@ -117,17 +117,11 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ---
 

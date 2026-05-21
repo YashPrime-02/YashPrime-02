@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=2200&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%8F%8E%EF%B8%8F+Lights+Out+%26+Away+We+Go...;%F0%9F%94%A5+Yash+Mishra+%7C+Frontend+Engineer;%F0%9F%9A%80+React+%E2%80%A2+Angular+%E2%80%A2+GenAI;%F0%9F%92%AB+Building+Scalable+AI+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%F0%9F%8F%8E%EF%B8%8F+Lights+Out+%26+Away+We+Go..." alt="Typing SVG" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASH%20MISHRA&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=timeGradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Yash%20Mishra%20|%20Frontend%20Engineer&fontSize=42&fontAlignY=42&animation=fadeIn&fontColor=ffffff&color=timeGradient&desc=React%20%E2%80%A2%20Angular%20%E2%80%A2%20GenAI%20%E2%80%A2%20Full%20Stack&descAlignY=62&descSize=20"/>
 
 <br/>
 
@@ -29,6 +27,9 @@
 - 🏎️ Huge fan of **Formula 1, simulations, and data-driven systems**
 - 🚀 Exploring **AI-powered frontend experiences**
 - 🌱 Currently improving **system design & backend architecture**
+
+<br clear="right"/>
+
 ---
 
 <div align="center">
@@ -94,17 +95,23 @@
 
 <div align="center">
 
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 <br/><br/>
 
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 ---
 
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 ---
 

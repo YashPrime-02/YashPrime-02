@@ -30,6 +30,14 @@
 
 <br clear="right"/>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20SYSTEMS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CURRENTLY-OPEN%20TO%20WORK-7928CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20FRONTEND-FF0080?style=for-the-badge"/>
+
+</div>
+
 ---
 
 <div align="center">
@@ -37,6 +45,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashprime-02&theme=tokyonight" />
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
 ---
 
@@ -62,10 +74,14 @@
 
 ✨ Features:
 - JWT-based authentication system
-- Persistent cart & order management
+- Persistent cart and order management
 - Admin workflow integration
 - Optimized frontend architecture
 - Scalable REST API handling
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
 ---
 
@@ -74,7 +90,7 @@
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1Fq_y1Lo7Kzoa0agWqihtXW7aMZTOygZ3/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▶%20WATCH%20F1%20SIMULATOR%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
@@ -85,7 +101,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,nodejs,express,postgres,mysql,mongodb,git,github,postman,figma,vscode,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,nodejs,express,postgres,mysql,mongodb,git,github,postman,figma,vscode,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-007CF0?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-FF0080?style=for-the-badge"/>
 
 </div>
 
@@ -95,11 +118,13 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashprime-02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashprime-02&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 <br/><br/>
 
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -117,7 +142,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashprime-02/yashprime-02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yashprime-02/yashprime-02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -143,7 +168,7 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:007CF0,100:7928CA&height=3"/>
 
 ---
 
@@ -152,15 +177,19 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/yashmishra02">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://portfolio-updated-lwhs.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>

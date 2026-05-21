@@ -1,12 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lights+out+and+away+we+go+%F0%9F%8F%8E%EF%B8%8F;Hi+I'm+Yash+Mishra+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%7C+Angular;Building+AI-Powered+Experiences;Full-Stack+Developer+%7C+GenAI+Explorer" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yashprime-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=2200&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%8F%8E%EF%B8%8F+Lights+Out+%26+Away+We+Go...;%F0%9F%94%A5+Yash+Mishra+%7C+Frontend+Engineer;%F0%9F%9A%80+React+%E2%80%A2+Angular+%E2%80%A2+GenAI;%F0%9F%92%AB+Building+Scalable+AI+Experiences" alt="Typing SVG" />
 
 <br/>
@@ -36,9 +29,6 @@
 - 🏎️ Huge fan of **Formula 1, simulations, and data-driven systems**
 - 🚀 Exploring **AI-powered frontend experiences**
 - 🌱 Currently improving **system design & backend architecture**
-
-<br clear="right"/>
-
 ---
 
 <div align="center">

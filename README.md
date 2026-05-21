@@ -5,28 +5,21 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yashprime-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=2200&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%8F%8E%EF%B8%8F+Lights+Out+%26+Away+We+Go...;%F0%9F%94%A5+Yash+Mishra+%7C+Frontend+Engineer;%F0%9F%9A%80+React+%E2%80%A2+Angular+%E2%80%A2+GenAI;%F0%9F%92%AB+Building+Scalable+AI+Experiences" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASH%20MISHRA&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=timeGradient"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yashprime-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c2bc-4b63-8753-0ffb79bfdbfc.gif" width="100%" />
-
-</div>
-
----
-
-<h3 align="center">
-🚀 Frontend Engineer • GenAI Integration • React & Angular
-</h3>
-
-<p align="center">
-Building scalable UI systems, AI-powered workflows, and performance-driven applications.
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Initializing+Frontend+Systems...;Loading+GenAI+Modules...;Optimizing+User+Experience...;Deploying+Scalable+Applications..." />
 
 </div>
 

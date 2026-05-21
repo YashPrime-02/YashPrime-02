@@ -80,32 +80,85 @@
 
 ## 🏎️ F1 Career Simulator (GenAI)
 
-> Full-stack simulation ecosystem inspired by real Formula 1 strategy systems.
+> AI-powered Formula 1 career simulation platform with dynamic race systems, immersive telemetry dashboards, and contextual GenAI commentary.
 
 <br/>
 
 ✨ Features:
 - React + Node.js + PostgreSQL architecture
 - Custom race simulation engine
-- Dynamic standings & progression logic
+- Dynamic standings & season progression logic
 - GenAI-powered commentary using Ollama
 - Structured prompt engineering pipelines
 - Context-aware race narratives
+- Strategy simulation & telemetry-inspired UI
+
+<br/>
+
+## 🚄 NeoRail Live Tracker
+
+> Futuristic railway telemetry simulator with animated train tracking, cyberpunk dashboards, and immersive route visualization systems.
+
+<br/>
+
+✨ Features:
+- Dynamic train tracking simulation
+- Live telemetry & ETA dashboard
+- Framer Motion powered animations
+- Glassmorphism + neon cyberpunk UI
+- Realistic train halt simulation
+- Dynamic route rendering system
+- Responsive futuristic interface architecture
+
+<br/>
+
+## 🎟️ IRCTC Booking Clone
+
+> Full-stack railway booking platform featuring authentication, QR-based ticketing, PDF generation, and production-style booking workflows.
+
+<br/>
+
+✨ Features:
+- Angular + Node.js full-stack architecture
+- JWT authentication system
+- Dynamic passenger management
+- QR ticket generation
+- PDF export & email integration
+- Session-based booking workflows
+- Responsive railway booking UI
+
+<br/>
+
+## 🚀 Prime Coder
+
+> Browser-based multi-language coding playground with real-time compilation, JSX/TSX support, and live preview rendering.
+
+<br/>
+
+✨ Features:
+- Monaco Editor integration
+- JSX, TSX & TypeScript support
+- Real-time live preview system
+- Browser-based compiler playground
+- Responsive React-powered interface
+- Fast Vite-based architecture
+- Instant code execution workflow
 
 <br/>
 
 ## 🍔 DevEats (Food Delivery Platform)
 
-> Production-style food delivery ecosystem with secure workflows.
+> Production-style food delivery ecosystem with secure workflows and scalable frontend architecture.
 
 <br/>
 
 ✨ Features:
 - JWT-based authentication system
-- Persistent cart and order management
+- Persistent cart & order management
 - Admin workflow integration
 - Optimized frontend architecture
 - Scalable REST API handling
+- Responsive modern UI system
 
 <br/>
 
@@ -136,9 +189,6 @@
 <br/>
 
 ---
-
-<br/>
-
 # 🛠️ Tech Stack
 
 <br/>

@@ -6,6 +6,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=yashprime-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c2bc-4b63-8753-0ffb79bfdbfc.gif" width="100%" />
+
 </div>
 
 ---
@@ -20,9 +24,17 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Initializing+Frontend+Systems...;Loading+GenAI+Modules...;Optimizing+User+Experience...;Deploying+Scalable+Applications..." />
+
+</div>
+
+---
+
 # ⚡ About Me
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRkbW9mMXVjN3Y3YWF1YTZ2eWxzMTh5ZWRrYzU5b2t0aGZlNmVwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 💼 Frontend Engineer at **Euodias Technologies**
 - 🧠 Building **full-stack applications with GenAI integration**
@@ -33,6 +45,14 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 - 🌱 Currently improving **system design & backend architecture**
 
 <br clear="right"/>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashprime-02&theme=tokyonight" />
+
+</div>
 
 ---
 
@@ -81,14 +101,7 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 
 <div align="center">
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,vite" />
-
-## ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql" />
-
-## 🤖 GenAI & Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,nodejs,express,postgres,mysql,mongodb,git,github,postman,figma,vscode,docker&perline=8" />
 
 </div>
 
@@ -105,6 +118,14 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 <br/><br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprime-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -137,6 +158,10 @@ Building scalable UI systems, AI-powered workflows, and performance-driven appli
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashprime-02&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -181,6 +206,6 @@ Learning:
 
 ## 🏁 “Lights out, and away we go…”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:7928CA&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
